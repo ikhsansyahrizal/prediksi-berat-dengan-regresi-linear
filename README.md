@@ -1,4 +1,4 @@
-# prediksi-berat-badan-dengan-regresi-linear
+# prediksi-berat-dengan-regresi-linear
 memprediksi berat badan berdasrkan tinggi badan dan jenis kelamin.
 
 web app berjalan menggunakan python flask. 
